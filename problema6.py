@@ -6,5 +6,4 @@ def lungimeString():
     except ValueError as e:
         print(e)
 print("test")
-
 lungimeString()
